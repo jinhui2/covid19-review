@@ -397,12 +397,12 @@ authors:
     contributions:
       - Writing - Revising & Editing
     code of conduct:
-      confirmed: No
+      confirmed: Yes
     affiliations:
       - Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America
     coi:
       string: "None"
-      lastapproved: !!str 2020-04-13
+      lastapproved: !!str 2020-11-11
   -
     github: dianerafi
     name: Diane N. Rafizadeh
